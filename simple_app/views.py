@@ -11,7 +11,7 @@ def index(request):
     return render(
         request,
         "simple_app/index.html",
-        {'host_base_url': config("HOST_BASE_URL")}
+        {"host_base_url": config("HOST_BASE_URL")},
     )
 
 
