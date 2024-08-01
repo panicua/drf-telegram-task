@@ -3,7 +3,6 @@ from rest_framework import routers
 
 from simple_app import views
 
-
 app_name = "simple_app"
 
 router = routers.DefaultRouter()
