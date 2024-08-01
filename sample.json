@@ -1,0 +1,29 @@
+[
+  {
+    "model": "simple_app.book",
+    "pk": 1,
+    "fields": {
+      "title": "Harry Potter and philosopher's stone",
+      "author": "J.K. Rowling",
+      "price": "10.99"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$vBR73ug8BthQQ5zxVky43T$H1efiKygrKIXs+neA3v1yLhrd3/KhNTJG7rwX5LpN9k=",
+      "last_login": "2024-07-31T18:42:12.696Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@admin.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-07-31T18:35:19.352Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
